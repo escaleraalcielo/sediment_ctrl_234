@@ -1,0 +1,35 @@
+Partlist
+
+Exported from Sediment Board.sch at 12/08/2016 09:30 p.m.
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value                 Device                Package               Library             Sheet
+
+BAT1     CR2032                BATTERY20PTH          BATTCOM_20MM_PTH      SparkFun            1
+C1       22pF                  CNP-C025-050X025      C025-050X025          cap-master          1
+C2       22pF                  CNP-C025-050X025      C025-050X025          cap-master          1
+C3       100nF                 CNP-C025-050X025      C025-050X025          cap-master          2
+C4       100nF                 CNP-C025-050X025      C025-050X025          cap-master          2
+D1       1N4004                1N4004                DO41-10               diode               1
+D2       1N4004                1N4004                DO41-10               diode               1
+D3       1N4947                1N4942                DO41-10               diode               2
+D4       1N4947                1N4942                DO41-10               diode               2
+D5       1N4947                1N4942                DO41-10               diode               2
+D6       1N4947                1N4942                DO41-10               diode               2
+IC1      PCF8583P              PCF8583P              DIL08                 ds1307_pcf8583      1
+IC2      ATMEGA328PROUND       ATMEGA328PROUND       DIL28-3-ROUND         atmega328           1
+J1                             M023.5MM              SCREWTERMINAL-3.5MM-2 SparkFun-Connectors 2
+J2                             M023.5MM              SCREWTERMINAL-3.5MM-2 SparkFun-Connectors 1
+JP1      AVR-ISP-6             AVR-ISP-6             AVR-ISP-6             atmel-1             1
+JP3      ENCODER               M03POLAR              MOLEX-1X3             SparkFun            1
+JP4      VCC                   M02POLAR              MOLEX-1X2             SparkFun            1
+Q1       32.768kHz             CRYSTALTC26H          TC26H                 crystal             1
+Q2       16MHz                 CRYSTALHC49U70        HC49U70               crystal             1
+R1       10k                   R-US_0207/10          0207/10               resistor            1
+R2       10k                   R-US_0207/10          0207/10               resistor            1
+R3       10k                   R-US_0207/10          0207/10               resistor            1
+S1       SWITCH-MOMENTARY-2PTH SWITCH-MOMENTARY-2PTH TACTILE-PTH           SparkFun            1
+U$1      L298                  L298                  MULTIWATT15           SparkFun            2
