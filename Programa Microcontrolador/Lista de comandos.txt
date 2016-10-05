@@ -1,0 +1,46 @@
+Lista de comandos
+Cada comando termina con un $
+s 	- Estado de la trampa
+b 	- Borrar EEPROM
+mon	- Encender motor
+	Almacena pa y pd
+	**Debe llevar a otra función**
+mof	- Apagar motor
+x 	- Reiniciar indice de EEPROM
+pr 	- Imprimir lista de fechas almacenadas en la trampa.
+pt 	- Imprimir la hora y fecha del reloj
+sdd/mm/aaaa - Almacenar fecha, ejemplo s12/11/2015 	
+
+Del gerber se tienen que enviar:
+TXT
+GTS
+GTO
+GTL
+
+GBS
+GBO
+GBL
+
+
+////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////
+
+Requisitos del sistema
+Sistemas operativos compatibles:
+Windows 7 Service Pack 1, Windows Server 2008 R2 SP1, Windows Server 2008 Service Pack 2, Windows Vista Service Pack 2
+Windows Vista SP2 (x86 y x64)
+Windows 7 SP1 (x86 y x64)
+Windows Server 2008 R2 SP1 (x64)
+Windows Server 2008 SP2 (x86 y x64)
+Requisitos de hardware:
+Procesador a 1 GHz o más rápido
+512 MB de RAM
+850 MB de espacio disponible en el disco duro (x86)
+Unidad de disco duro de 2 GB (x64)
+Instrucciones
+Nota: Windows 8 y Windows Server 2012 incluyen .NET Framework 4.5. Por tanto, no tiene que instalar este software en estos sistemas operativos.    
+
+En esta página, elija el botón Descargar.
+Para instalar el software ahora, elija el botón Ejecutar.
+para instalar el software en otro momento, elija el botón Ejecutar. (Cuando realice la instalación, el equipo debe estar conectado a Internet).
