@@ -1,0 +1,15 @@
+Fechas de control de la trampa de sedimentos
+
+Instituto de Ciencias del Mar y Limnologia, UNAM
+
+Fecha de creacion del archivo: 
+10/08/2016 11:48:16 p.m.
+
+Lista de fechas programadas en la trampa de sedimentos
+1) 10/08/2016
+2) 13/08/2016
+3) 01/09/2016
+4) 29/09/2016
+5) 21/10/2016
+6) 11/11/2016
+7) 09/12/2016

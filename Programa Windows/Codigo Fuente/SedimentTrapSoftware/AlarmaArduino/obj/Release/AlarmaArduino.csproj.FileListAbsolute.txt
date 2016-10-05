@@ -1,0 +1,15 @@
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\bin\Release\SedimentTrap.exe.config
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\bin\Release\SedimentTrap.exe.manifest
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\bin\Release\SedimentTrap.application
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\bin\Release\SedimentTrap.exe
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\bin\Release\SedimentTrap.pdb
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\AlarmaArduino.ComunicacionArduino.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\AlarmaArduino.About.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\AlarmaArduino.ImpresionFechas.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\SedimentTrap.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\AlarmaArduino.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\SedimentTrap.exe.manifest
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\SedimentTrap.application
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\SedimentTrap.exe
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\SedimentTrap.pdb
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\AlarmaArduino\AlarmaArduino\obj\Release\AlarmaArduino.csprojResolveAssemblyReference.cache

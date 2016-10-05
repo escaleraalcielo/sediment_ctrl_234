@@ -1,0 +1,34 @@
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.exe.config
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.exe
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.pdb
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.exe.manifest
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.application
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.exe
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.pdb
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\Sediment_16_09.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\AlarmaArduino.ComunicacionArduino.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\AlarmaArduino.ImpresionFechas.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\Sediment_16_09.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.TrustInfo.xml
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.exe.manifest
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.application
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.TiempoFechas.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\AlarmaArduino\SedimentTrapSoftware\AlarmaArduino\obj\Debug\AlarmaArduino.About.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.exe.config
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.exe
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.pdb
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.exe.manifest
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.application
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.exe
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\bin\Debug\SedimentTrap.pdb
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\Sediment_16_09.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\AlarmaArduino.ComunicacionArduino.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\AlarmaArduino.About.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\AlarmaArduino.ImpresionFechas.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.TiempoFechas.resources
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\Sediment_16_09.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.TrustInfo.xml
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.exe.manifest
+C:\Users\Daniel\Dropbox\Tesis\Proyecto\Visual Studio\SedimentTrapSoftware\AlarmaArduino\obj\Debug\SedimentTrap.application
